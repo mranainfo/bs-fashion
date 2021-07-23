@@ -1,0 +1,26 @@
+.navBackground{
+    background-color: white!important;
+    border-radius: 50px 0;
+}
+.navBackgroundScroll{
+    background-color: white;
+    border-bottom: 1px solid #383634;
+}
+.nav-logo{
+    width: 50px;
+    margin-left: 20px;
+}
+.navItem{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600 !important;
+    color: #383634 !important;
+    transition: all 0.4s ease;
+    font-size: 16px;
+    margin: 0 .2rem;
+}
+.navItem:hover{
+    color: #00A3A3 !important;
+}
+.search-icon{
+    font-size: 20px;
+}

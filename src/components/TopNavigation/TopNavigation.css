@@ -1,0 +1,12 @@
+.top-bg{
+    top: 10px;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
+.contact-info{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: white;
+}
