@@ -24,10 +24,12 @@ class HomeBanner extends Component {
     }
     render() {
         const settings = {
+            autoplaySpeed: 2500,
+            autoplay: true,
             dots: false,
             arrows: true,
             infinite: true,
-            speed: 500,
+            speed: 2500,
             slidesToShow: 1,
             slidesToScroll: 1
         };
